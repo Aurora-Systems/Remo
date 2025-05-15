@@ -9,7 +9,7 @@ export default function TermsAndConditions(){
         <p><strong>Effective Date:</strong> June 4, 2024</p>
 
         <h2>1. Introduction</h2>
-        <p>Welcome to Exalt, a platform provided by Aurorasystems Private Limited ("Aurorasystems," "we," "our," or "us"). By accessing or using our services, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with these Terms, please do not use our services.</p>
+        <p>Welcome to Remo, a platform provided by Aurorasystems Private Limited ("Aurorasystems," "we," "our," or "us"). By accessing or using our services, you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with these Terms, please do not use our services.</p>
 
         <h2>2. Use of Our Services</h2>
         <p>You agree to use our services only for lawful purposes and in accordance with these Terms. You must not use our services:</p>
@@ -17,7 +17,7 @@ export default function TermsAndConditions(){
             <li>In any way that violates any applicable local, national, or international law or regulation.</li>
             <li>To exploit, harm, or attempt to exploit or harm minors in any way by exposing them to inappropriate content or otherwise.</li>
             <li>To transmit, or procure the sending of, any advertising or promotional material without our prior written consent.</li>
-            <li>To impersonate or attempt to impersonate Exalt, an Exalt employee, another user, or any other person or entity.</li>
+            <li>To impersonate or attempt to impersonate Remo, an Remo employee, another user, or any other person or entity.</li>
         </ul>
 
         <h2>3. Account Registration</h2>
@@ -52,9 +52,9 @@ export default function TermsAndConditions(){
 
         <h2>11. Contact Us</h2>
         <p>If you have any questions about these Terms, please contact us at:</p>
-        <p>Exalt<br/>
+        <p>Remo<br/>
         Aurorasystems Private Limited<br/>
-        Email: <a href="mailto:support@exalt.com">support@exalt.com</a><br/>
+        Email: <a href="mailto:support@Remo.com">support@Remo.com</a><br/>
         Address: 17 Philips Avondale, Harare Zimbabwe</p>
         </div>
     )

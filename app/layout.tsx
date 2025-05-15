@@ -8,8 +8,8 @@ import 'react-toastify/dist/ReactToastify.css';
 
 
 export const metadata: Metadata = {
-  title: "Exalt",
-  description: "Hire vetted proffessionals",
+  title: "Remo",
+  description: "Redefining the hiring process",
 };
 
 export default function RootLayout({

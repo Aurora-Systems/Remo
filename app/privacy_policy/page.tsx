@@ -1,13 +1,13 @@
 export default function PrivacyPolicy(){
     return(
         <div className="min-vh-100 container mb-5">
-             <h1 className="p-text fw-bold">Privacy Policy for Exalt</h1>
+             <h1 className="p-text fw-bold">Privacy Policy for Remo</h1>
 
 <p>Effective Date: June 4, 2024</p>
 
  <h5 className="p-text fw-bold">1. Introduction</h5>
 
-<p>Welcome to Exalt. Exalt ("we," "our," or "us") is a platform provided by Aurorasystems Private Limited ("Aurorasystems," "we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our platform to connect professionals with hiring companies. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the site.</p>
+<p>Welcome to Remo. Remo ("we," "our," or "us") is a platform provided by Aurorasystems Private Limited ("Aurorasystems," "we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our platform to connect professionals with hiring companies. Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access the site.</p>
 
 <h5 className="p-text fw-bold">2. Information We Collect</h5>
 
@@ -45,7 +45,7 @@ export default function PrivacyPolicy(){
 
 <p>- Hiring Companies/Partners: To facilitate the hiring process, we share relevant information with companies looking to hire professionals.
 - Service Providers: Third-party vendors who help us operate our platform, such as hosting services, data analytics, and customer support.
-- Legal and Regulatory Authorities: When required by law, regulation, or legal process, or to protect the safety, rights, or property of Exalt, our users, or others.
+- Legal and Regulatory Authorities: When required by law, regulation, or legal process, or to protect the safety, rights, or property of Remo, our users, or others.
 - Business Transfers: In the event of a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred to the acquiring entity.</p>
 
 <h5 className="p-text fw-bold">5. Data Retention</h5>
@@ -63,7 +63,7 @@ export default function PrivacyPolicy(){
 - Restriction: You can request that we limit our use of your information.
 - Portability: You can request to receive your personal data in a structured, commonly used, and machine-readable format.</p>
 
-<p>To exercise any of these rights, please contact us at privacy@exalt.co.zw</p>
+<p>To exercise any of these rights, please contact us at privacy@Remo.co.zw</p>
 
 <h5 className="p-text fw-bold">7. Security</h5>
 
@@ -89,17 +89,17 @@ export default function PrivacyPolicy(){
 
 <p>If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:</p>
 
-<p>Exalt</p>
+<p>Remo</p>
 <br/>
 Aurorasystems Private Limited  
 <br/>
-Email: privacy@exalt.co.zw  
+Email: privacy@Remo.co.zw  
 <br/>
 Address: 17 Philips Avondale, Harare, Zimbabwe
 <br/>
 <p>By using our website and services, you acknowledge that you have read and understood this Privacy Policy and agree to our collection, use, and sharing of your information as described.
 
-</p>Thank you for trusting Exalt with your professional journey.
+</p>Thank you for trusting Remo with your professional journey.
 
         </div>
     )
