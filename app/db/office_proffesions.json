@@ -1,0 +1,112 @@
+[
+      {
+        "Category": "Engineering",
+        "Professions": [
+          "Civil Engineer",
+          "Mechanical Engineer",
+          "Electrical Engineer",
+          "Software Engineer",
+          "Chemical Engineer",
+          "Aerospace Engineer",
+          "Environmental Engineer",
+          "Industrial Engineer",
+          "Biomedical Engineer",
+          "Computer Engineer"
+        ]
+      },
+      {
+        "Category": "Administrative",
+        "Professions": [
+          "Office Manager",
+          "Administrative Assistant",
+          "Receptionist",
+          "Executive Assistant",
+          "Secretary",
+          "Data Entry Clerk",
+          "Clerical Worker"
+        ]
+      },
+      {
+        "Category": "Finance",
+        "Professions": [
+          "Accountant",
+          "Financial Analyst",
+          "Auditor",
+          "Bookkeeper",
+          "Payroll Specialist",
+          "Controller",
+          "Treasurer",
+          "Financial Planner"
+        ]
+      },
+      {
+        "Category": "Human Resources",
+        "Professions": [
+          "HR Manager",
+          "Recruiter",
+          "HR Specialist",
+          "Training and Development Coordinator",
+          "Compensation and Benefits Manager",
+          "HR Assistant"
+        ]
+      },
+      {
+        "Category": "Marketing",
+        "Professions": [
+          "Marketing Manager",
+          "Market Research Analyst",
+          "Digital Marketing Specialist",
+          "Content Strategist",
+          "SEO Specialist",
+          "Social Media Manager",
+          "Brand Manager"
+        ]
+      },
+      {
+        "Category": "Information Technology",
+        "Professions": [
+          "IT Manager",
+          "Network Administrator",
+          "System Administrator",
+          "Database Administrator",
+          "IT Support Specialist",
+          "Cybersecurity Analyst",
+          "Web Developer"
+        ]
+      },
+      {
+        "Category": "Legal",
+        "Professions": [
+          "Lawyer",
+          "Paralegal",
+          "Legal Secretary",
+          "Legal Assistant",
+          "Compliance Officer",
+          "Contract Manager"
+        ]
+      },
+      {
+        "Category": "Operations",
+        "Professions": [
+          "Operations Manager",
+          "Project Manager",
+          "Business Analyst",
+          "Logistics Coordinator",
+          "Supply Chain Manager",
+          "Quality Assurance Specialist"
+        ]
+      },
+      {
+        "Category": "Sales",
+        "Professions": [
+          "Sales Manager",
+          "Account Executive",
+          "Sales Representative",
+          "Sales Coordinator",
+          "Business Development Manager",
+          "Inside Sales Representative"
+        ]
+      }
+    ]
+
+  

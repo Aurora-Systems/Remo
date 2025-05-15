@@ -1,0 +1,33 @@
+{
+  "name": "remo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emailjs/browser": "^4.3.3",
+    "@types/google-libphonenumber": "^7.4.30",
+    "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
+    "firebase": "^10.12.2",
+    "google-libphonenumber": "^3.2.34",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-bootstrap": "^2.10.2",
+    "react-countdown": "^2.3.5",
+    "react-dom": "^18",
+    "react-international-phone": "^4.3.0",
+    "react-toastify": "^10.0.5",
+    "ss-search": "^1.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "typescript": "^5"
+  }
+}
